@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import "./teamMembers.css";
 import api from "@services/endpoint";
 import DataTable from "react-data-table-component";

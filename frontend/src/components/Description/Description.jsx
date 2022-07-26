@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import "./Description.css";
 import api from "@services/endpoint";
 import { useParams } from "react-router-dom";

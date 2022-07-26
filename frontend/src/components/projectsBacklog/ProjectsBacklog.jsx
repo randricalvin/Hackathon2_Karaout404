@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import React, { useEffect, useState } from "react";
 import api from "@services/endpoint";
 import "./ProjectsBacklog.css";
